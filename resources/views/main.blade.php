@@ -35,8 +35,8 @@
                         <a href="#Speciallies" class="nav-link">Menu</a>
                     </li>
                     <!-- <li class="nav-item">
-                  <a href="#Types" class="nav-link">Types</a>
-               </li> -->
+                <a href="#Types" class="nav-link">Types</a>
+                </li> -->
                     <li class="nav-item">
                         <a href="#Team" class="nav-link">Team</a>
                     </li>
